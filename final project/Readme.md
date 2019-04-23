@@ -1,6 +1,6 @@
 # DIP final project
 
-Code is on the google drive:
+Code and dataset are on the google drive:
 
 https://drive.google.com/drive/folders/1yO2VWO-pbU-cBW6hadOhNdaTnyUSEmLJ?usp=sharing
 
