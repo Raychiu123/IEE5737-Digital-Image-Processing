@@ -90,7 +90,7 @@ But *PatchGAN* tries to classify if each N × N patch in an image is real or fak
 
 4. Experiments
 
-    + ![](https://i.imgur.com/seCiRtB.jpg)![](https://i.imgur.com/CtL1f1L.jpg)
+    + ![](https://i.imgur.com/seCiRtB.jpg) ![](https://i.imgur.com/CtL1f1L.jpg)
 
 
 
